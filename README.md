@@ -13,7 +13,7 @@
 
 ## 📝 Deskripsi
 
-Aplikasi ini membantu perusahaan kecil/menengah untuk menghitung **gaji bersih karyawan** dengan memperhitungkan:
+Aplikasi ini untuk menghitung **gaji bersih karyawan** dengan memperhitungkan:
 
 - 💵 Gaji Pokok  
 - 🎁 Tunjangan  
