@@ -151,5 +151,3 @@ javadoc -d doc src/Karyawan.java src/Gaji.java
 | ☕ **Java 21** | Bahasa utama untuk aplikasi |
 | 📘 **Javadoc** | Untuk dokumentasi kelas & metode |
 | 💻 **Terminal / CMD** | Menjalankan aplikasi berbasis console |
-
-✨ *Dibuat dengan semangat clean code & dokumentasi profesional oleh Zaki Fawwaz*
